@@ -20,9 +20,5 @@ namespace ConsoleApplication1
             Console.WriteLine("Hello {0}!", MyName);
         }
 
-        public static int Plus(int a, int b)
-        {
-            return a + b;
-        }
     }
 }
